@@ -3,9 +3,8 @@ package git_example;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("hello! Sanath");
-
+		Test1 a = new Test1();
+		System.out.println(a.test());
 	}
 
 }
